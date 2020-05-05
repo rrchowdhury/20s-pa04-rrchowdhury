@@ -1,0 +1,27 @@
+SCC TIME ANALYSIS: Average of 5
+
+[input04.txt]
+NODES:  	10
+TRIVIAL:	124 μs
+ROBUST: 	93 μs
+
+[input05.txt]
+NODES:  	20
+TRIVIAL:	832 μs
+ROBUST: 	249 μs
+
+[input06.txt]
+NODES:  	30
+TRIVIAL:	1102 μs
+ROBUST: 	397 μs
+
+[input07.txt]
+NODES:  	40
+TRIVIAL:	11099 μs
+ROBUST: 	357 μs
+
+[input08.txt]
+NODES:  	50
+TRIVIAL:	1324910 μs
+ROBUST: 	434 μs
+

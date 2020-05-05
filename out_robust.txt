@@ -1,0 +1,26 @@
+KOSAJARU'S ALGORITHM ANALYSIS: Average of 5
+
+[input04.txt]
+NODES:  	10
+ROBUST: 	84 μs
+
+[input13.txt]
+NODES:  	100
+ROBUST: 	921 μs
+
+[input15.txt]
+NODES:  	1000
+ROBUST: 	10558 μs
+
+[input16.txt]
+NODES:  	10000
+ROBUST: 	120036 μs
+
+[input17.txt]
+NODES:  	50000
+ROBUST: 	710488 μs
+
+[input18.txt]
+NODES:  	100000
+ROBUST: 	1424098 μs
+
